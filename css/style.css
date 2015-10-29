@@ -1,0 +1,97 @@
+*	{
+	font-family: sans-serif;
+	margin: 5px;
+	border-radius: 7px;
+	background-color: #003333;
+}
+
+header	{
+	font-weight: bold;
+	font-size: 40px;
+	font-family: Verdana;
+	color: #A3FFFF;
+	padding: 5px;
+	text-align: left;
+	margin-bottom: 20px;
+}
+
+#Facebook	{
+	border: 2px solid #dfe3ee;
+	background-color: #3b5998;
+	color: #dfe3ee;
+	padding: 8px;
+}
+
+#LinkedIn	{
+	border: 2px solid white;
+	background-color: #007bb5;
+	color: white;
+	padding: 8px;
+}
+
+#Femjitsu	{
+	border: 2px solid #CCCCFF;
+	background-color: #330080;
+	color: #CCCCFF;
+	padding: 8px;
+}
+
+a	{
+    text-decoration: none;
+    color: white;
+}
+
+.internal	{
+    color: white;
+}
+
+section	{
+	display: inline-block;
+	margin-left: 5px;
+	padding: 5px;
+	color: #A3FFFF;
+	margin-top: 10px;
+}
+
+h1	{
+	font-weight: 900;
+	font-style: italic;
+}
+
+p	{
+
+}
+
+.yearspan	{
+	font-style: italic;
+}
+
+aside	{
+	border: 0px;
+	float:none;
+	display: inline-block;
+}
+
+#home-img	{
+	width: 200px;
+	height: auto;
+}
+
+footer	{
+	display: block;
+	padding: 5px;
+	clear: both;
+	color: #A3FFFF;
+}
+
+.interests	{
+	float: left;
+	display: inline;
+}
+
+.interest-img	{
+	display: inline;
+	float: right;
+	width: 400px;
+	height: auto;
+}
